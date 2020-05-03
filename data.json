@@ -1,0 +1,11 @@
+{
+  "username":"dadzoo",
+  "status":"my my space",
+  "summary":{
+    "gender":"male",
+    "age":"42",
+    "city":"Atlanta",
+    "state":"GA",
+    "country":"USA"
+  }
+}

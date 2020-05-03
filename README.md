@@ -1,4 +1,4 @@
-# Welcome to My Space
+# Welcome to My MySpace
 
 Glitch is what I thought MySpace was doing to our generation. Giving children access to source code. I thought they were going to be so fluent. But maybe, that's just where my mind went. I saw what I wanted MySpace to become. Since MySpace was not that, I tried to articulate that as 4D blogging. At some point I'll port all my 4Dblogging notes over here.
 

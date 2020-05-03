@@ -7,6 +7,10 @@ body {
   color: #000000;
 }
 
+img {
+  width: 250px;
+}
+
 h1 {
   font-style: italic;
   color: #373fff;
